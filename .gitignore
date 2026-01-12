@@ -1,0 +1,30 @@
+# Build outputs
+build/
+build-release/
+cmake-build-*/
+NumInter-Release/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
